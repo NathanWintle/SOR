@@ -13,7 +13,7 @@ taradicional comparado al OS X y Windows, pero por tema del mercado de los servi
 Este S.O. no se puede instalar como Windows y Linux, habra que comprar un dispositivo de apple como un MacBook, 
 
 ### **3. IOS**
-![IOS](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUuVXaXBGG3PwDMUgx5x4bpFxMM1tN3SmfaQ&usqp=CAU)
+![IOS](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjOivwkisRYf9_rafI9OZ31vkk22TOkrNl0Q&usqp=CAU)
 
 Esta instalado en los iPhone's de Apple
 
